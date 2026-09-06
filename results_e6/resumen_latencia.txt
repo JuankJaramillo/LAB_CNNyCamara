@@ -1,0 +1,39 @@
+E6 - LATENCIA DEL SISTEMA
+=========================
+
+Landmarks
+N = 661
+Media = 23.718 ms
+p50 = 22.965 ms
+p95 = 24.671 ms
+
+CNN
+N = 661
+Media = 2.919 ms
+p50 = 2.865 ms
+p95 = 3.423 ms
+
+Percepcion total
+N = 661
+Media = 26.637 ms
+p50 = 25.874 ms
+p95 = 28.013 ms
+
+Filtro
+N = 661
+Media = 0.028 ms
+p50 = 0.031 ms
+p95 = 0.047 ms
+
+Ejecucion joints
+N = 6
+Media = 545.989 ms
+p50 = 54.631 ms
+p95 = 2287.009 ms
+
+Comando gripper
+N = 4
+Media = 7.423 ms
+p50 = 8.340 ms
+p95 = 9.955 ms
+

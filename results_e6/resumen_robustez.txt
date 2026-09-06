@@ -1,0 +1,31 @@
+E6-B - ROBUSTEZ Y FALSOS COMANDOS
+=================================
+
+Condicion: normal
+Deteccion media: 100.00%
+Accuracy media: 100.00%
+Confianza media: 93.04%
+Falsos comandos: 0
+Ensayos exitosos: 5/5
+
+Condicion: lejos
+Deteccion media: 99.77%
+Accuracy media: 90.43%
+Confianza media: 89.91%
+Falsos comandos: 0
+Ensayos exitosos: 4/5
+
+Condicion: lateral
+Deteccion media: 99.78%
+Accuracy media: 99.55%
+Confianza media: 98.98%
+Falsos comandos: 0
+Ensayos exitosos: 5/5
+
+Condicion: baja_luz
+Deteccion media: 99.77%
+Accuracy media: 87.43%
+Confianza media: 94.93%
+Falsos comandos: 1
+Ensayos exitosos: 5/5
+

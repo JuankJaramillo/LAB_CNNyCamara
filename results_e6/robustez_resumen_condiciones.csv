@@ -1,0 +1,5 @@
+condicion,deteccion_media_pct,accuracy_media_pct,confianza_media_pct,comandos_emitidos,comandos_correctos,falsos_comandos,tasa_falsos_pct,ensayos_exitosos,ensayos_totales
+normal,100.0,100.0,93.0428596431246,4,4,0,0.0,5,5
+lejos,99.77272727272728,90.43478260869566,89.91210400694459,3,3,0,0.0,4,5
+lateral,99.77777777777779,99.5505617977528,98.98023263206268,4,4,0,0.0,5,5
+baja_luz,99.77011494252874,87.42732558139535,94.93150406580166,5,4,1,20.0,5,5
